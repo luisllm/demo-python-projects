@@ -1,7 +1,7 @@
 # Description
 
 Demo projects written in python:
-- 01. tictactoe game
+- 01. tic tac toe game
 - 02. blackjack game
 
 # References
